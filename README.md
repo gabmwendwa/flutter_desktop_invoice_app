@@ -1,16 +1,15 @@
-# invoice
+# Flutter Invoice App
 
-A new Flutter project.
+Generate invoice pdf files desktop app in Flutter.
 
-## Getting Started
+<a href="https://www.buymeacoffee.com/gabmwendwa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-This project is a starting point for a Flutter application.
+## Plugins
 
-A few resources to get you started if this is your first Flutter project:
+- pdf
+- printing
+- path_provider
+- open_file
+- file_picker
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.buymeacoffee.com/gabmwendwa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
